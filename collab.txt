@@ -1,3 +1,7 @@
 hello world
 hi collaborator cutie
+<<<<<<< HEAD
 I added a line me as the owner.
+=======
+iadded a line me as the collaborator.
+>>>>>>> 1e72fd6131adb191fe82fc082f79a7f07bfc59d6
